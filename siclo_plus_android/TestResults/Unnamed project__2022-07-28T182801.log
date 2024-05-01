@@ -1,0 +1,272 @@
+﻿2022-07-28T18:28:01.3424488-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-07-28T18:28:01.3425344-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2022-07-28T18:28:01.3425378-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-07-28T18:28:01.3449890-05:00;VSTestExecutionThread;Info;Current UserName: 'a_gal', MachineName: 'LAPTOP-OS2KRTMB'
+2022-07-28T18:28:01.3908323-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\siclo_plus_android.dll
+2022-07-28T18:28:01.3910560-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\TestResults" (default)
+2022-07-28T18:28:01.3911547-05:00;VSTestExecutionThread;Info;Profile: 
+2022-07-28T18:28:01.4508736-05:00;VSTestExecutionThread;Info;Log file path: C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\TestResults\Unnamed project__2022-07-28T182801.log
+2022-07-28T18:28:01.4622660-05:00;Thread#12;Info;Checking activation
+2022-07-28T18:28:01.5790598-05:00;Thread#12;Info;Activated.
+2022-07-28T18:28:01.5793706-05:00;Thread#12;Info;Activation check completed
+2022-07-28T18:28:01.5795402-05:00;Thread#12;Info;Starting test run
+2022-07-28T18:28:01.6742809-05:00;Thread#12;Info;Discovering target: Default
+2022-07-28T18:28:01.6745058-05:00;Thread#12;Info;Discovering tests from assembly: C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\siclo_plus_android.dll
+2022-07-28T18:28:01.7755567-05:00;Thread#12;Info;Discovered tests from assembly: C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\siclo_plus_android.dll
+2022-07-28T18:28:01.7766328-05:00:Test Suite Dump
+2022-07-28T18:28:01.7786647-05:00:#0: Unnamed project/ - 
+2022-07-28T18:28:01.7787073-05:00:#1: Default - 
+2022-07-28T18:28:01.7787125-05:00:#2: siclo_plus_android - 
+2022-07-28T18:28:01.7787152-05:00:#3: Home - 
+2022-07-28T18:28:01.7800733-05:00:#6: Finish functions tour, agalindoba@gmail.com - TestAssembly:siclo_plus_android/Feature:Home/Scenario:Finish+functions+tour%2c+agalindoba%40gmail.com
+2022-07-28T18:28:01.7801368-05:00:End: Test Suite Dump
+2022-07-28T18:28:01.7986278-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-07-28T18:28:01.8005689-05:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2022-07-28T18:28:01.8006187-05:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-07-28T18:28:01.8035993-05:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-07-28T18:28:01.8036251-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-07-28T18:28:01.8036269-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-07-28T18:28:01.8036308-05:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-07-28T18:28:01.8044429-05:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-07-28T18:28:01.8053159-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-07-28T18:28:01.8078499-05:00:Thread #0: creating new test thread executor for siclo_plus_android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-07-28T18:28:01.8100215-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-07-28T18:28:01.8101829-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-07-28T18:28:01.8158107-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-07-28T18:28:01.8172331-05:00:starting Out Of Process Executor
+2022-07-28T18:28:01.8216475-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:28:01.8251619-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-07-28T18:28:01.8251920-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-07-28T18:28:01.8261270-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:01.8264846-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-07-28T18:28:01.8266239-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-07-28T18:28:01.8266605-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:01.8268156-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-07-28T18:28:01.8273122-05:00:Tfm: netcoreapp3.1
+2022-07-28T18:28:01.8273350-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-07-28T18:28:01.8273378-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-07-28T18:28:01.8274846-05:00:[AssemblyCache] Found file 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-07-28T18:28:01.8295303-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-07-28T18:28:01.8304365-05:00:Starting callback TCP Rpc server
+2022-07-28T18:28:01.8518241-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-07-28T18:28:01.8522129-05:00:Started callback TCP Rpc server on port 32768
+2022-07-28T18:28:01.8522312-05:00:Starting logger TCP Rpc server
+2022-07-28T18:28:01.8565444-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-07-28T18:28:01.8565962-05:00:Started logger TCP Rpc server on port 32769
+2022-07-28T18:28:01.9507290-05:00:Executing test executor at 'dotnet' 'exec "C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 1292 --uniqueId "2022-07-28T182801" --outputFolder "C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:01.9631122-05:00:Executor with PID 32396 has been started successfully.
+2022-07-28T18:28:01.9659482-05:00:Out of Process Executor 32396 started
+2022-07-28T18:28:01.9659727-05:00:Waiting for endpoint
+2022-07-28T18:28:02.3824247-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:28:02.3825085-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2022-07-28T18:28:02.3825157-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2022-07-28T18:28:02.3825241-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:02.3825287-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2022-07-28T18:28:02.3825822-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2022-07-28T18:28:02.3826195-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:02.3826297-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-07-28T18:28:02.3827168-05:00:Tfm: netcoreapp3.1
+2022-07-28T18:28:02.3827225-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-07-28T18:28:02.3827257-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2022-07-28T18:28:02.3827752-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2022-07-28T18:28:02.3828276-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-07-28T18:28:02.3908136-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-07-28T18:28:02.3908389-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\StreamJsonRpc.resources.dll'
+2022-07-28T18:28:02.3908872-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\StreamJsonRpc.resources.exe'
+2022-07-28T18:28:02.3909130-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-07-28T18:28:02.3921362-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:28:02.3927277-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:28:02.3927463-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-07-28T18:28:02.3927518-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-07-28T18:28:02.3927593-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:02.3927617-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-07-28T18:28:02.3928065-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-07-28T18:28:02.3928370-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:28:02.3928410-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-07-28T18:28:02.3928680-05:00:Tfm: netcoreapp3.1
+2022-07-28T18:28:02.3928717-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-07-28T18:28:02.3928737-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-07-28T18:28:02.3929607-05:00:[AssemblyCache] Found file 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-07-28T18:28:02.3955125-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-07-28T18:28:02.6813382-05:00:Remote executor port received: 32770
+2022-07-28T18:28:02.6816644-05:00:Creating executor TCP client on port 32770
+2022-07-28T18:28:02.6819966-05:00:Created executor TCP client on port 32770
+2022-07-28T18:28:02.6820090-05:00:Connecting to remote executor TCP server
+2022-07-28T18:28:02.6830864-05:00:Connected remote executor TCP server
+2022-07-28T18:28:02.6832526-05:00:trying to connect to Out of Process Executor the 1 attempt
+2022-07-28T18:28:02.6832639-05:00:Connection to Out of Process Executor established in the 1 attempt
+2022-07-28T18:28:02.8383747-05:00:2022-07-28T18:28:02.8369730-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\siclo_plus_android.dll on test thread #0
+2022-07-28T18:28:02.8422493-05:00:Endpoint 32396 started
+2022-07-28T18:28:02.8601357-05:00:2022-07-28T18:28:02.8592200-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-07-28T18:28:02.9758720-05:00:2022-07-28T18:28:02.9754971-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-07-28T18:28:02.9796528-05:00:2022-07-28T18:28:02.9794396-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-07-28T18:28:02.9827957-05:00:2022-07-28T18:28:02.9825530-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\a_gal\.nuget\packages\specflow\3.9.74\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-07-28T18:28:03.0732819-05:00:2022-07-28T18:28:03.0728674-05:00:Thread#0:T:-> Loading plugin C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\siclo_plus_android.dll
+2022-07-28T18:28:03.0741784-05:00:2022-07-28T18:28:03.0739628-05:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-07-28T18:28:03.0744762-05:00:2022-07-28T18:28:03.0743406-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-07-28T18:28:03.0750448-05:00:2022-07-28T18:28:03.0747847-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-07-28T18:28:03.1092807-05:00:2022-07-28T18:28:03.1089107-05:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-07-28T18:28:03.1096640-05:00:2022-07-28T18:28:03.1094918-05:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-07-28T18:28:03.1101576-05:00:2022-07-28T18:28:03.1100033-05:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\a_gal\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-07-28T18:28:03.1191449-05:00:2022-07-28T18:28:03.1186897-05:00:Thread#0:T:-> Loading plugin C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-07-28T18:28:03.1223666-05:00:2022-07-28T18:28:03.1220220-05:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-07-28T18:28:03.1227509-05:00:2022-07-28T18:28:03.1225746-05:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-07-28T18:28:03.1233778-05:00:2022-07-28T18:28:03.1231827-05:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\a_gal\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-07-28T18:28:03.1266278-05:00:2022-07-28T18:28:03.1262686-05:00:Thread#0:T:-> Loading plugin C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-07-28T18:28:03.1339582-05:00:2022-07-28T18:28:03.1335414-05:00:Thread#0:T:-> Using default config
+2022-07-28T18:28:03.1407605-05:00:2022-07-28T18:28:03.1404252-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:28:03.1411063-05:00:2022-07-28T18:28:03.1409369-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-07-28T18:28:03.1416954-05:00:2022-07-28T18:28:03.1415195-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\a_gal\.nuget\packages\microsoft.testplatform.objectmodel\17.2.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-07-28T18:28:03.1739985-05:00:2022-07-28T18:28:03.1735804-05:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-07-28T18:28:03.1743992-05:00:2022-07-28T18:28:03.1742370-05:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-07-28T18:28:03.1755161-05:00:2022-07-28T18:28:03.1752847-05:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\a_gal\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-07-28T18:28:03.2418773-05:00:Thread#0: Test #6/0 is started on thread #0
+2022-07-28T18:28:03.2509624-05:00:2022-07-28T18:28:03.2506363-05:00:Assembly resolving Appium.Net, Version=4.1.1.0, Culture=neutral, PublicKeyToken=null
+2022-07-28T18:28:03.2514771-05:00:2022-07-28T18:28:03.2511852-05:00:[AssemblyCache] Trying to resolve 'Appium.Net' from .deps.json file
+2022-07-28T18:28:03.2522609-05:00:2022-07-28T18:28:03.2519860-05:00:[AssemblyCache] Resolved 'Appium.Net' to 'C:\Users\a_gal\.nuget\packages\appium.webdriver\4.1.1\lib\netstandard2.0\Appium.Net.dll'
+2022-07-28T18:28:03.2556002-05:00:2022-07-28T18:28:03.2552825-05:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2022-07-28T18:28:03.2559786-05:00:2022-07-28T18:28:03.2558129-05:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-07-28T18:28:03.2565579-05:00:2022-07-28T18:28:03.2563228-05:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\a_gal\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2022-07-28T18:28:03.2596537-05:00:2022-07-28T18:28:03.2592824-05:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2022-07-28T18:29:12.0795952-05:00:2022-07-28T18:29:12.0777324-05:00:Thread#0:B:Given Open the application
+2022-07-28T18:29:12.0901935-05:00:2022-07-28T18:29:12.0890485-05:00:Assembly resolving nunit.framework, Version=3.13.3.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2022-07-28T18:29:12.0915805-05:00:2022-07-28T18:29:12.0908759-05:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2022-07-28T18:29:12.0935681-05:00:2022-07-28T18:29:12.0926671-05:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\a_gal\.nuget\packages\nunit\3.13.3\lib\netstandard2.0\nunit.framework.dll'
+2022-07-28T18:29:12.2015310-05:00:2022-07-28T18:29:12.2006855-05:00:Thread#0:T:done: LoginStepDefinitions.GivenOpenTheApplication() (0.1s)
+2022-07-28T18:29:12.2040350-05:00:2022-07-28T18:29:12.2032269-05:00:Thread#0:B:And Enter the user name agalindoba@gmail.com
+2022-07-28T18:29:13.2239783-05:00:2022-07-28T18:29:13.2222100-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterTheUserName("agalindoba@gmail.com") (1.0s)
+2022-07-28T18:29:13.2258984-05:00:2022-07-28T18:29:13.2252610-05:00:Thread#0:B:And Enter the password @Braham1
+2022-07-28T18:29:14.3146734-05:00:2022-07-28T18:29:14.3133321-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterThePassword("@Braham1") (1.1s)
+2022-07-28T18:29:14.3162720-05:00:2022-07-28T18:29:14.3157825-05:00:Thread#0:B:And Click on login button
+2022-07-28T18:29:14.8934702-05:00:2022-07-28T18:29:14.8925154-05:00:Thread#0:T:done: LoginStepDefinitions.GivenClickOnLoginButton() (0.6s)
+2022-07-28T18:29:14.8954471-05:00:2022-07-28T18:29:14.8945297-05:00:Thread#0:B:And Enter the serial number of Bisi 275CTT04SHZ02334MX
+2022-07-28T18:29:19.4872865-05:00:2022-07-28T18:29:19.4857652-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterTheSerialNumberOfBisi("275CTT04SHZ02334MX") (4.6s)
+2022-07-28T18:29:19.4904452-05:00:2022-07-28T18:29:19.4892809-05:00:Thread#0:B:And Click on siguiente button
+2022-07-28T18:29:20.9308654-05:00:2022-07-28T18:29:20.9296999-05:00:Thread#0:T:done: LoginStepDefinitions.GivenClickOnSiguienteButton() (1.4s)
+2022-07-28T18:29:20.9339947-05:00:2022-07-28T18:29:20.9325152-05:00:Thread#0:B:And Click on user
+2022-07-28T18:29:21.1363827-05:00:2022-07-28T18:29:21.1354808-05:00:Thread#0:T:error: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') (0.2s)
+2022-07-28T18:29:21.1380176-05:00:2022-07-28T18:29:21.1376228-05:00:Thread#0:B:And Show the tour
+2022-07-28T18:29:21.1398600-05:00:2022-07-28T18:29:21.1394417-05:00:Thread#0:T:skipped because of previous errors
+2022-07-28T18:29:21.1438651-05:00:2022-07-28T18:29:21.1434948-05:00:Thread#0:B:And Finish the tour
+2022-07-28T18:29:21.1444701-05:00:2022-07-28T18:29:21.1442548-05:00:Thread#0:T:skipped because of previous errors
+2022-07-28T18:29:21.1451822-05:00:2022-07-28T18:29:21.1449508-05:00:Thread#0:B:Then Show the home page
+2022-07-28T18:29:21.1456344-05:00:2022-07-28T18:29:21.1454461-05:00:Thread#0:T:skipped because of previous errors
+2022-07-28T18:29:21.1608769-05:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2022-07-28T18:29:21.1627225-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-07-28T18:29:21.1627804-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2022-07-28T18:29:21.1627840-05:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-07-28T18:29:21.1628864-05:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-07-28T18:29:21.1628960-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-07-28T18:29:21.1628975-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-07-28T18:29:21.1628994-05:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-07-28T18:29:21.1629337-05:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-07-28T18:29:21.1629680-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2022-07-28T18:29:22.5905950-05:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 79.3474524 seconds
+2022-07-28T18:29:22.5938963-05:00:Thread#0: Test #6/1 is started on thread #0
+2022-07-28T18:29:59.0408783-05:00:2022-07-28T18:29:59.0381709-05:00:Thread#0:B:Given Open the application
+2022-07-28T18:29:59.1175096-05:00:2022-07-28T18:29:59.1163511-05:00:Thread#0:T:done: LoginStepDefinitions.GivenOpenTheApplication() (0.1s)
+2022-07-28T18:29:59.1190019-05:00:2022-07-28T18:29:59.1184607-05:00:Thread#0:B:And Enter the user name agalindoba@gmail.com
+2022-07-28T18:30:00.1922622-05:00:2022-07-28T18:30:00.1911363-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterTheUserName("agalindoba@gmail.com") (1.1s)
+2022-07-28T18:30:00.1945287-05:00:2022-07-28T18:30:00.1935172-05:00:Thread#0:B:And Enter the password @Braham1
+2022-07-28T18:30:01.2584533-05:00:2022-07-28T18:30:01.2574523-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterThePassword("@Braham1") (1.1s)
+2022-07-28T18:30:01.2600673-05:00:2022-07-28T18:30:01.2594043-05:00:Thread#0:B:And Click on login button
+2022-07-28T18:30:01.8024909-05:00:2022-07-28T18:30:01.8015759-05:00:Thread#0:T:done: LoginStepDefinitions.GivenClickOnLoginButton() (0.5s)
+2022-07-28T18:30:01.8041240-05:00:2022-07-28T18:30:01.8035355-05:00:Thread#0:B:And Enter the serial number of Bisi 275CTT04SHZ02334MX
+2022-07-28T18:30:06.4137431-05:00:2022-07-28T18:30:06.4129813-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterTheSerialNumberOfBisi("275CTT04SHZ02334MX") (4.6s)
+2022-07-28T18:30:06.4158127-05:00:2022-07-28T18:30:06.4147938-05:00:Thread#0:B:And Click on siguiente button
+2022-07-28T18:30:06.9568896-05:00:2022-07-28T18:30:06.9558232-05:00:Thread#0:T:done: LoginStepDefinitions.GivenClickOnSiguienteButton() (0.5s)
+2022-07-28T18:30:06.9583416-05:00:2022-07-28T18:30:06.9578266-05:00:Thread#0:B:And Click on user
+2022-07-28T18:30:09.1159123-05:00:2022-07-28T18:30:09.1151389-05:00:Thread#0:T:done: HomeStepDefinitions.GivenClickOnUser() (2.2s)
+2022-07-28T18:30:09.1169427-05:00:2022-07-28T18:30:09.1165962-05:00:Thread#0:B:And Show the tour
+2022-07-28T18:30:12.2532272-05:00:2022-07-28T18:30:12.2527569-05:00:Thread#0:T:done: HomeStepDefinitions.GivenShowTheTour() (3.1s)
+2022-07-28T18:30:12.2541889-05:00:2022-07-28T18:30:12.2537924-05:00:Thread#0:B:And Finish the tour
+2022-07-28T18:30:21.1380702-05:00:2022-07-28T18:30:21.1370972-05:00:Thread#0:T:done: HomeStepDefinitions.GivenFinishTheTour() (8.9s)
+2022-07-28T18:30:21.1394023-05:00:2022-07-28T18:30:21.1390385-05:00:Thread#0:B:Then Show the home page
+2022-07-28T18:30:23.1602755-05:00:2022-07-28T18:30:23.1599521-05:00:Thread#0:T:done: HomeStepDefinitions.ThenShowTheHomePage() (2.0s)
+2022-07-28T18:30:23.1620175-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-07-28T18:30:23.1620478-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2022-07-28T18:30:23.1620508-05:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-07-28T18:30:23.1621540-05:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-07-28T18:30:23.1621614-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-07-28T18:30:23.1621628-05:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-07-28T18:30:23.1621644-05:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-07-28T18:30:23.1622005-05:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-07-28T18:30:23.1622347-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2022-07-28T18:30:23.9151929-05:00:Thread#0: Test #6/1 is finished on thread #0 as Succeeded within 61.3210787 seconds
+2022-07-28T18:30:23.9196122-05:00:Thread#0: Test #6/2 is started on thread #0
+2022-07-28T18:30:59.5759167-05:00:2022-07-28T18:30:59.5750081-05:00:Thread#0:B:Given Open the application
+2022-07-28T18:30:59.6376387-05:00:2022-07-28T18:30:59.6372557-05:00:Thread#0:T:done: LoginStepDefinitions.GivenOpenTheApplication() (0.1s)
+2022-07-28T18:30:59.6383745-05:00:2022-07-28T18:30:59.6381790-05:00:Thread#0:B:And Enter the user name agalindoba@gmail.com
+2022-07-28T18:31:00.6838191-05:00:2022-07-28T18:31:00.6835161-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterTheUserName("agalindoba@gmail.com") (1.0s)
+2022-07-28T18:31:00.6846497-05:00:2022-07-28T18:31:00.6843669-05:00:Thread#0:B:And Enter the password @Braham1
+2022-07-28T18:31:01.7675240-05:00:2022-07-28T18:31:01.7669703-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterThePassword("@Braham1") (1.1s)
+2022-07-28T18:31:01.7687015-05:00:2022-07-28T18:31:01.7681533-05:00:Thread#0:B:And Click on login button
+2022-07-28T18:31:02.3013048-05:00:2022-07-28T18:31:02.3009897-05:00:Thread#0:T:done: LoginStepDefinitions.GivenClickOnLoginButton() (0.5s)
+2022-07-28T18:31:02.3019687-05:00:2022-07-28T18:31:02.3017452-05:00:Thread#0:B:And Enter the serial number of Bisi 275CTT04SHZ02334MX
+2022-07-28T18:31:06.8880828-05:00:2022-07-28T18:31:06.8877356-05:00:Thread#0:T:done: LoginStepDefinitions.GivenEnterTheSerialNumberOfBisi("275CTT04SHZ02334MX") (4.6s)
+2022-07-28T18:31:06.8887595-05:00:2022-07-28T18:31:06.8884859-05:00:Thread#0:B:And Click on siguiente button
+2022-07-28T18:31:07.4002545-05:00:2022-07-28T18:31:07.4000061-05:00:Thread#0:T:done: LoginStepDefinitions.GivenClickOnSiguienteButton() (0.5s)
+2022-07-28T18:31:07.4008770-05:00:2022-07-28T18:31:07.4006849-05:00:Thread#0:B:And Click on user
+2022-07-28T18:31:09.4368055-05:00:2022-07-28T18:31:09.4364848-05:00:Thread#0:T:done: HomeStepDefinitions.GivenClickOnUser() (2.0s)
+2022-07-28T18:31:09.4374158-05:00:2022-07-28T18:31:09.4371821-05:00:Thread#0:B:And Show the tour
+2022-07-28T18:31:12.0934437-05:00:2022-07-28T18:31:12.0931818-05:00:Thread#0:T:done: HomeStepDefinitions.GivenShowTheTour() (2.7s)
+2022-07-28T18:31:12.0939309-05:00:2022-07-28T18:31:12.0937738-05:00:Thread#0:B:And Finish the tour
+2022-07-28T18:31:20.7257325-05:00:2022-07-28T18:31:20.7248957-05:00:Thread#0:T:done: HomeStepDefinitions.GivenFinishTheTour() (8.6s)
+2022-07-28T18:31:20.7270252-05:00:2022-07-28T18:31:20.7265911-05:00:Thread#0:B:Then Show the home page
+2022-07-28T18:31:22.7636916-05:00:2022-07-28T18:31:22.7631797-05:00:Thread#0:T:done: HomeStepDefinitions.ThenShowTheHomePage() (2.0s)
+2022-07-28T18:31:22.7656766-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-07-28T18:31:22.7657124-05:00:Thread#:Scheduler: at the end of normal test queue
+2022-07-28T18:31:22.7657636-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-07-28T18:31:22.7657665-05:00:Thread#0:Scheduler: No more tests for thread
+2022-07-28T18:31:23.4964153-05:00:Thread#0: Test #6/2 is finished on thread #0 as Succeeded within 59.5766628 seconds
+2022-07-28T18:31:23.5071332-05:00:2022-07-28T18:31:23.5066773-05:00:Got Deinitialize Signal
+2022-07-28T18:31:23.5128660-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-07-28T18:31:23.5153348-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-07-28T18:31:23.5156991-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-07-28T18:31:23.5180805-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:31:23.5181164-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-07-28T18:31:23.5181252-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-07-28T18:31:23.5181370-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:31:23.5181404-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-07-28T18:31:23.5181969-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-07-28T18:31:23.5182328-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1'
+2022-07-28T18:31:23.5182456-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-07-28T18:31:23.5183605-05:00:Tfm: netcoreapp3.1
+2022-07-28T18:31:23.5183808-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-07-28T18:31:23.5183835-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-07-28T18:31:23.5184524-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-07-28T18:31:23.5185210-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\siclo_plus_android\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-07-28T18:31:23.5201051-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-07-28T18:31:23.5201292-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\System.Diagnostics.Process.resources.dll'
+2022-07-28T18:31:23.5201996-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\System.Diagnostics.Process.resources.exe'
+2022-07-28T18:31:23.5202968-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-07-28T18:31:23.5210716-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2022-07-28T18:31:23.5325384-05:00:Thread#-1:Scheduler: get next test for thread -1
+2022-07-28T18:31:23.5325997-05:00:Thread#:Scheduler: at the end of normal test queue
+2022-07-28T18:31:23.5326047-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-07-28T18:31:23.5418041-05:00;Thread#12;Info;test run finished
+2022-07-28T18:31:23.5433119-05:00;Thread#12;Info;publishing test results
+2022-07-28T18:31:23.5436621-05:00;Thread#12;Info;Not publishing results.
+2022-07-28T18:31:23.5443189-05:00;Thread#12;Info;test results published
+2022-07-28T18:31:23.5444610-05:00;Thread#12;Info;generating reports
+2022-07-28T18:31:23.7023742-05:00;Thread#12;Info;Starting external report generation process
+2022-07-28T18:31:25.4288804-05:00;Thread#12;Info;Successfully generated reports.
+2022-07-28T18:31:25.4308414-05:00;Thread#12;Info;Successfully generated reports
+2022-07-28T18:31:25.4369509-05:00:Total: 1 (test executions: 3)
+2022-07-28T18:31:25.4381713-05:00:Succeeded: 0
+2022-07-28T18:31:25.4383655-05:00:Ignored: 0
+2022-07-28T18:31:25.4385098-05:00:Pending: 0
+2022-07-28T18:31:25.4385179-05:00:Skipped: 0
+2022-07-28T18:31:25.4386363-05:00:Failed: 1
+2022-07-28T18:31:25.4445524-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-07-28T18:31:25.4446465-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\SICLO\siclo_Android\siclo-android-automation\siclo_plus_android\TestResults\Unnamed project__2022-07-28T182801.html'
+========== End of log file ==========
